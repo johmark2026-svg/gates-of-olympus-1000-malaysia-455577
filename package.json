@@ -1,0 +1,26 @@
+{
+  "name": "gates-of-olympus-1000-malaysia",
+  "version": "1.0.0",
+  "description": "Free online gates of olympus game for Malaysian players",
+  "main": "index.html",
+  "keywords": [
+    "gates of olympus",
+    "online-game",
+    "casino",
+    "browser-game",
+    "javascript",
+    "html5",
+    "free-game",
+    "malaysia"
+  ],
+  "author": "BirdsDot Olympus",
+  "license": "MIT",
+  "homepage": "https://johmark2026-svg.github.io/gates-of-olympus-1000-malaysia/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johmark2026-svg/gates-of-olympus-1000-malaysia.git"
+  },
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  }
+}

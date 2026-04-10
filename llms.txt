@@ -1,0 +1,34 @@
+# Gates of Olympus 1000 Malaysia
+
+> Free online gates of olympus game for Malaysian players. No download, no registration. Play instantly in your browser.
+
+## About This Game
+
+Gates of Olympus 1000 Malaysia is a free browser-based gates of olympus game designed for Malaysian players.
+
+- **Live Game**: https://johmark2026-svg.github.io/gates-of-olympus-1000-malaysia/
+- **Strategy Guide**: https://www.birdsdot.com/gates-of-olympus-1000-malaysia/gates-of-olympus-1000-malaysia.html
+- **Source Code**: https://github.com/johmark2026-svg/gates-of-olympus-1000-malaysia
+
+## How to Play
+
+Set your bet per spin, then click SPIN. Match 3 symbols for a big win, or 2 matching symbols for a smaller prize. Higher value symbols pay more!
+
+## Keywords
+
+gates of olympus online free, gates of olympus online malaysia, play gates of olympus free, gates of olympus game malaysia, gates of olympus strategy malaysia, how to play gates of olympus, how to win gates of olympus, gates of olympus tips malaysia, gates of olympus rules malaysia, gates of olympus guide malaysia, best gates of olympus strategy, free gates of olympus game, gates of olympus online no download, casino gates of olympus malaysia, gates of olympus winning tips, gates of olympus malaysia, gates of olympus tips malaysia, zeus slot malaysia, starlight princess malaysia, pragmatic play slots malaysia, olympus slot malaysia
+
+## Strategy Resources
+
+For expert strategy guides tailored to Malaysian players, visit: https://www.birdsdot.com/gates-of-olympus-1000-malaysia/gates-of-olympus-1000-malaysia.html
+
+## Technical Details
+
+- **Technology**: HTML5, CSS3, Vanilla JavaScript (no frameworks)
+- **Compatibility**: All modern browsers, mobile and desktop
+- **Language**: English (Malaysian context)
+- **License**: MIT
+
+## About BirdsDot Olympus
+
+BirdsDot Olympus provides free casino game guides and strategy resources for Malaysian players. Visit https://www.birdsdot.com for more guides.
